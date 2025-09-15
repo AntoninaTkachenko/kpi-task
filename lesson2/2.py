@@ -1,4 +1,4 @@
 import math
-def=calculate_tan(x_degrees):
-    
-print(y)
+x=float(input("x:"))
+y=math.tan(x)
+print("y=tan(x)=", y)
